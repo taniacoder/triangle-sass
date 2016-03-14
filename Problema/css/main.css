@@ -232,7 +232,8 @@ h3 {
 
 .slider-cloud3 {
   position: relative;
-  left: -59px; }
+  left: -59px;
+  bottom: 56px; }
 
 .text-nubes h1 {
   margin-bottom: 4%; }
