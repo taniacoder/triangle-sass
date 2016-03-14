@@ -251,13 +251,12 @@ h3 {
 
 /*triangle*/
 #action {
-  background-image: url("../images/home/tour-icon2.png");
-  height: 100%;
-  position: absolute;
-  width: 100%;
-  left: 0px;
-  background-repeat: no-repeat;
-  background-position: 151px 4px; }
+  background-image: url("../images/home/tour-bg.png");
+  background-color: #fbfafa;
+  height: 157px;
+  background-position: center;
+  position: static;
+  width: 100%; }
 
 #action .col-sm-5 {
   position: absolute;
